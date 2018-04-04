@@ -16,6 +16,7 @@ Curated list of drivers for LinqPad:
 - Sitecore - [https://github.com/adamconn/sitecore-linqpad](https://github.com/adamconn/sitecore-linqpad)
 - HTTP SOAP service - [https://github.com/dylanmei/linqpad-soap-driver](https://github.com/dylanmei/linqpad-soap-driver)
 - HTTP JSON service - [https://github.com/rdavisau/jsondatacontext-linqpad](https://github.com/rdavisau/jsondatacontext-linqpad)
+- HTTP Swagger enabled service - [https://github.com/dylanmei/linqpad-swagger-driver](https://github.com/dylanmei/linqpad-swagger-driver)
 
 ### Files
 
