@@ -1,6 +1,6 @@
 # LinqPad Drivers
 
-Curated list of drivers for LinqPad:
+Curated list of drivers for [LinqPad](http://www.linqpad.net/):
 
 ### Services
 
