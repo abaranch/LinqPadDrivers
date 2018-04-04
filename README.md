@@ -4,6 +4,7 @@ Curated list of drivers for LinqPad:
 
 ### Services
 
+- Azure Table Storage - [https://github.com/madd0/AzureStorageDriver](https://github.com/madd0/AzureStorageDriver)
 - Cosmos DB - [https://github.com/conwid/AzureDocumentDbDriver](https://github.com/conwid/AzureDocumentDbDriver)
 - Mongo DB - [https://github.com/gburgett/LinqPad-mongo-driver](https://github.com/gburgett/LinqPad-mongo-driver)
 - Raven DB - [https://github.com/ronnieoverby/RavenDB-Linqpad-Driver](https://github.com/ronnieoverby/RavenDB-Linqpad-Driver)
