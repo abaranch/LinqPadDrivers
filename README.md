@@ -22,4 +22,4 @@ Curated list of drivers for LinqPad:
 
 - Binary-in-ETW - [https://github.com/Microsoft/Tx/tree/master/Samples/BondEtw/LinqPadDriver](https://github.com/Microsoft/Tx/tree/master/Samples/BondEtw/LinqPadDriver)
 - CSV - [https://github.com/dobrou/CsvLINQPadDriver](https://github.com/dobrou/CsvLINQPadDriver)
-- ETW - [https://github.com/Microsoft/Tx](https://github.com/Microsoft/Tx)
+- ETW/ETL - [https://github.com/Microsoft/Tx](https://github.com/Microsoft/Tx)
