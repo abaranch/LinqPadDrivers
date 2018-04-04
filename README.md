@@ -7,7 +7,8 @@ Curated list of drivers for LinqPad:
 - Cosmos DB - [https://github.com/conwid/AzureDocumentDbDriver](https://github.com/conwid/AzureDocumentDbDriver)
 - Mongo DB - [https://github.com/gburgett/LinqPad-mongo-driver](https://github.com/gburgett/LinqPad-mongo-driver)
 - Raven DB - [https://github.com/ronnieoverby/RavenDB-Linqpad-Driver](https://github.com/ronnieoverby/RavenDB-Linqpad-Driver)
-- SOAP HTTP service - [https://github.com/dylanmei/linqpad-soap-driver](https://github.com/dylanmei/linqpad-soap-driver)
+- HTTP SOAP service - [https://github.com/dylanmei/linqpad-soap-driver](https://github.com/dylanmei/linqpad-soap-driver)
+- HTTP JSON service - [https://github.com/rdavisau/jsondatacontext-linqpad](https://github.com/rdavisau/jsondatacontext-linqpad)
 
 ### Files
 
