@@ -8,6 +8,7 @@ Curated list of drivers for LinqPad:
 - Cosmos DB - [https://github.com/conwid/AzureDocumentDbDriver](https://github.com/conwid/AzureDocumentDbDriver)
 - Google Big Query - [https://github.com/neuecc/LINQ-to-BigQuery](https://github.com/neuecc/LINQ-to-BigQuery)
 - Lite DB - [https://github.com/adospace/litedbpad](https://github.com/adospace/litedbpad)
+- Microsoft Dynamics CRM - [https://github.com/kenakamu/CRMLinqPadDriverWebAPI](https://github.com/kenakamu/CRMLinqPadDriverWebAPI)
 - Mongo DB - [https://github.com/gburgett/LinqPad-mongo-driver](https://github.com/gburgett/LinqPad-mongo-driver)
 - Sitecore - [https://github.com/adamconn/sitecore-linqpad](https://github.com/adamconn/sitecore-linqpad)
 - PortgreSQL - [https://github.com/fknx/linqpad-postgresql-driver](https://github.com/fknx/linqpad-postgresql-driver)
